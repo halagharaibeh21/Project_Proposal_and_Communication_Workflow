@@ -9,9 +9,9 @@ This repository showcases professional projects emphasizing workflow design, sta
 
    - Key Skills:
 
-    - Workflow design and execution
-    - Predictive modeling and data analysis
-    - Stakeholder communication
+          - Workflow design and execution
+          - Predictive modeling and data analysis
+          - Stakeholder communication
 
 3. **Emails to Stakeholders**  
    [View Document](./Stakeholder_Emails.pdf)
