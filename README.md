@@ -5,9 +5,9 @@ This repository showcases professional projects emphasizing workflow design, sta
 1. **PACE Strategy Document**  
    [View Document](./PACE_Strategy_Document.pdf)
    
-- Description: Developed a structured plan using the PACE (Plan, Analyze, Construct, Execute) framework. The project includes data preparation, analysis, and predictive modeling to enhance user experience and deliver actionable insights.
+ - Description: Developed a structured plan using the PACE (Plan, Analyze, Construct, Execute) framework. The project includes data preparation, analysis, and predictive modeling to enhance user experience and deliver actionable insights.
 
-- Key Skills:
+ - Key Skills:
 
     Workflow design and execution
     Predictive modeling and data analysis
