@@ -15,6 +15,22 @@ This repository showcases professional projects emphasizing workflow design, sta
 
 3. **Emails to Stakeholders**  
    [View Document](./Stakeholder_Emails.pdf)
+   
+    - Description: Crafted clear and professional communications tailored to various stakeholders, ensuring alignment on project goals, milestones, and results.
 
-4. **Predictive Maintenance Proposal**  
+    -  Key Skills:
+
+           - Stakeholder management
+           - Strategic communication
+           - Professional writing
+
+5. **Predictive Maintenance Proposal**  
    [View Document](./Maintenance_Proposal.pdf)
+   
+     - Description: Proposed a machine learning solution for predictive maintenance to minimize downtime and improve operational efficiency. The project includes a detailed workflow, deliverables, and stakeholder-focused outcomes.
+
+     - Key Skills:
+
+           - Predictive maintenance strategy
+           - Data-driven problem-solving
+           - Workflow and milestone tracking
